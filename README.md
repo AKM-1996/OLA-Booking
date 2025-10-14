@@ -2,7 +2,7 @@
 
 This repository presents a comprehensive Power BI dashboard analyzing ride-hailing data from OLA for the month of July 2024. The dashboard is segmented into five key analytical views: Overall Performance, Vehicle Type Analysis, Revenue Insights, Cancellation Breakdown, and Ratings Overview. It demonstrates advanced data modeling, visualization, and storytelling techniques tailored for operational and strategic decision-making.
 
-# 📊 Dashboard Sections & Insights
+📊 Dashboard Sections & Insights
 
 # 1. Overall Performance
 - Total Bookings: 103,024 rides generating ₹35M in value.
@@ -60,4 +60,6 @@ This repository presents a comprehensive Power BI dashboard analyzing ride-haili
 - Dashboard Design: KPI cards, pie charts, bar graphs, line charts, and tabular summaries
 - Documentation: Clear labeling, intuitive navigation, and contextual storytelling
 
-
+# Useful Links
+- Screenshot : (https://github.com/AKM-1996/OLA-Booking/blob/main/Screenshot%202025-10-14%20201400.png),(https://github.com/AKM-1996/OLA-Booking/blob/main/Screenshot%202025-10-14%20201412.png),(https://github.com/AKM-1996/OLA-Booking/blob/main/Screenshot%202025-10-14%20201430.png),(https://github.com/AKM-1996/OLA-Booking/blob/main/Screenshot%202025-10-14%20201441.png),(https://github.com/AKM-1996/OLA-Booking/blob/main/Screenshot%202025-10-14%20201453.png)
+- Google sheet data :https://docs.google.com/spreadsheets/d/11iU-e0C8Geejp6H4hVNqkv5eecG95dKgksg3AUQcQAs/edit?gid=0#gid=0
