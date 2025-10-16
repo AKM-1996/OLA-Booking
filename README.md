@@ -1,8 +1,8 @@
-🚖 OLA Ride Analytics Dashboard (July 2024)
+# 🚖 OLA Ride Analytics Dashboard (July 2024)
 
 This repository presents a comprehensive Power BI dashboard analyzing ride-hailing data from OLA for the month of July 2024. The dashboard is segmented into five key analytical views: Overall Performance, Vehicle Type Analysis, Revenue Insights, Cancellation Breakdown, and Ratings Overview. It demonstrates advanced data modeling, visualization, and storytelling techniques tailored for operational and strategic decision-making.
 
-📊 Dashboard Sections & Insights
+# 📊 Dashboard Sections & Insights
 
 # 1. Overall Performance
 - Total Bookings: 103,024 rides generating ₹35M in value.
